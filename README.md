@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maxdotjs
+- 👀 I’m interested in Anime, Tech, and Gaming
+- 🌱 I’m currently learning Next.js, React, and Svelte
+- 💞️ I’m looking to collaborate on more open source projects based on javascript
+- 📫 How to reach me: maxdotjs@gmail.com 
